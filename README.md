@@ -1,4 +1,10 @@
-<h1>Hi, I'm Glen! 
+## Hi, I'm Glen!    
+
+Help Desk Analyst with hands-on experience troubleshooting hardware, software, network, and identity/access issues. Known for clear user communication, precise ticket documentation, and root-cause analysis. Actively pursuing industry-recognized certifications and building practical labs to advance into higher-tier technical roles.
+  
+        
+  
+    
 
 <h2>👨‍💻 Help Desk Projects:</h2>
 
