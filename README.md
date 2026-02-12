@@ -18,9 +18,7 @@ Help Desk Analyst with hands-on experience troubleshooting hardware, software, n
 
 <h2> Azure Labs:</h2> 
 
- - [A hands-on lab demonstrating the setup and configuration of an Active Directory user provisioning lab](https://github.com/glenpagesr-dev/password-reset)
-
-
+ - [This guide walks through the process of configuring an Azure Storage Account to host a static website](https://github.com/glenpagesr-dev/Building-and-Hosting-a-Static-Website-on-Azure)
 
 
 <h2>🛠️ Core Skills </h2>
