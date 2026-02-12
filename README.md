@@ -15,7 +15,14 @@ Help Desk Analyst with hands-on experience troubleshooting hardware, software, n
   - [A hands-on lab demonstrating the setup and configuration of a Password Rest in Active Directory](https://github.com/glenpagesr-dev/password-reset)
 
   - [A hands-on lab demonstrating the setup and configuration of an Active Directory user provisioning lab](https://github.com/glenpagesr-dev/password-reset)
- 
+
+<h2> Azure Labs:</h2> 
+
+ - [A hands-on lab demonstrating the setup and configuration of an Active Directory user provisioning lab](https://github.com/glenpagesr-dev/password-reset)
+
+
+
+
 <h2>🛠️ Core Skills </h2>
        
     • Servicenow
