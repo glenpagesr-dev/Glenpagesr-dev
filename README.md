@@ -20,7 +20,7 @@ Help Desk Analyst with hands-on experience troubleshooting hardware, software, n
 
  - [This guide walks through the process of configuring an Azure Storage Account to host a static website](https://github.com/glenpagesr-dev/Building-and-Hosting-a-Static-Website-on-Azure)
 
-- [This lab provides a hands -on, step-by-step guide to designing and deploying a secure 2-tier web application architecture, emphasizing, access control, and infrastructure security best practices](
+- [This lab provides a hands -on, step-by-step guide to designing and deploying a secure 2-tier web application architecture, emphasizing, access control, and infrastructure security best practices](https://github.com/glenpagesr-dev/Building-a-Secure-2-Tier-Web-Application)
 
 
 <h2>🛠️ Core Skills </h2>
