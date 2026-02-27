@@ -22,6 +22,9 @@ Help Desk Analyst with hands-on experience troubleshooting hardware, software, n
 
 - [This lab provides a hands -on, step-by-step guide to designing and deploying a secure 2-tier web application architecture, emphasizing, access control, and infrastructure security best practices](https://github.com/glenpagesr-dev/Building-a-Secure-2-Tier-Web-Application)
 
+- [In this lab, i will modernize an application to Azure Paas services and implement secure secret management using Azure key Vault, RBAC, and managed identities to eliminate hard-coded credentials and enforce least-privilege access](
+
+
 
 <h2>🛠️ Core Skills </h2>
        
