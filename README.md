@@ -24,7 +24,7 @@ Help Desk Analyst with hands-on experience troubleshooting hardware, software, n
 
 - [In this lab, I will migrate an application to Azure SQL Database (Paas) and implement secure secret management using Azure key Vault, RBAC, and managed identities to eliminate hard-coded credentials and enforce least-privilege access](https://github.com/glenpagesr-dev/Lab-03-Modernizing-to-Paas-Securing-Secrets)
 
-
+- [This lab demonstrates how to deploy cloud infrastructure using Infrastructure as Code (IaC) with Terraform in Microsoft Azure. Instead of manually creating resources through the Azure Portal, Terraform scripts are used to automate the deployment of infrastructure components]
 
 <h2>🛠️ Core Skills </h2>
        
