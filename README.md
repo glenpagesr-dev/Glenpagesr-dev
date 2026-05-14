@@ -1,7 +1,9 @@
 ## Hi, I'm Glen!    
 
-Cloud Support Engineer with hands-on experience troubleshooting hardware, software, network, and identity/access issues. Known for clear user communication, precise ticket documentation, and root-cause analysis. Actively pursuing industry-recognized certifications and building practical labs to advance into higher-tier technical roles.
-  
+I'm a cloud and IT professional with hands-on experience supporting Azure infrastructure, automating workflows with PowerShell, and managing enterprise identity through Active Directory and Microsoft Entra ID. Currently, I work as a Cloud Support Engineer at Jefe-Consulting LLC, where I support Azure environments, engineer PowerShell automation, and manage end-to-end incident lifecycles in ServiceNow. My hands-on lab work spans IaaS deployments, VNet architecture, Terraform IaC, and secure PaaS migrations on Azure.
+I'm actively pursuing industry-standard certifications — holding CompTIA Security+ and Microsoft AZ-104 (Azure Administrator) — with my sights set on AZ-305, AZ-400 (DevOps Engineer Expert), and beyond as I advance toward a DevOps engineering role.
+🔧 Tech Stack: Azure | PowerShell | Terraform | Active Directory | ServiceNow | Linux CLI | Entra ID
+📂 Check out my labs and SOPs below — each one is production-documented and recruiter-ready.
         
   
     
