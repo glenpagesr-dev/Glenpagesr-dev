@@ -30,6 +30,8 @@ I'm actively pursuing industry-standard certifications — holding CompTIA Secur
 
 - [Azure Cost Visibility Dashboard](https://github.com/glenpagesr-dev/Azure-Cost-Visibility-Dashboard)
 
+- [Azure Governance & Security Hardening](https://github.com/glenpagesr-dev/Azure-Governance-Security-Hardening)
+
 <h2>🛠️ Core Skills </h2>
        
     • Servicenow
