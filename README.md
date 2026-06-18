@@ -28,6 +28,8 @@ I'm actively pursuing industry-standard certifications — holding CompTIA Secur
 
 - [Deploying cloud infrastructure using Infrastructure as Code (IaC) with Terraform in Microsoft Azure](https://github.com/glenpagesr-dev/Infrastructure-as-code-with-Terraform-Azure-)
 
+- [Azure Cost Visibility Dashboard](https://github.com/glenpagesr-dev/Azure-Cost-Visibility-Dashboard)
+
 <h2>🛠️ Core Skills </h2>
        
     • Servicenow
