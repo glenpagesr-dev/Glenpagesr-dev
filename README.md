@@ -38,25 +38,29 @@ I'm actively pursuing industry-standard certifications — holding CompTIA Secur
      
     • Active Directory
 
-    • Window os 
+    • Microsoft Azure
     
     • Office 365 administration
 
-    • Technical Support
+    • Role-Based Access Control (RBAC)
 
-    • Amazon EC2 (Elastic Compute Cloud)
+    • Terraform
 
-    • Key Pair-SSH access
+    • Azure Virtual Networks (VNet)
 
-    • Amazon VPC (Virtual Private Cloud)
+    • Network Security Groups (NSG)
 
-    • AMI (Amazon Machine Image)
+    • Microsoft Entra ID
 
     • Cloud Watch-Monitoring Logs
 
-    • Elastic Network Interface (EIN)
+    • Azure Policy
 
     • Security Groups
+
+    • Azure Key Vault
+
+    • Azure CLI
 
 <h2> 🤳 Connect with me:</h2>
 [Email]:<a href="mailto:glenpage.sr@gmail.com">glenpage.sr@gmail.com</a>
