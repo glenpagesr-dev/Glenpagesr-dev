@@ -48,6 +48,8 @@ step-by-step READMEs, and Loom video walkthroughs — built to recruiter-ready s
 
 - [Azure Governance & Security Hardening](https://github.com/glenpagesr-dev/Azure-Governance-Security-Hardening)
 
+- [Azure AD Administration Lab](https://github.com/glenpagesr-dev/azure-ad-admin-lab)
+
 <h2>🛠️ Core Skills </h2>
        
     • Servicenow
