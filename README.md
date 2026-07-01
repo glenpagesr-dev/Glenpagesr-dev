@@ -11,8 +11,7 @@ My lab portfolio mirrors real enterprise scenarios — covering IaaS deployments
 VNet architecture, Terraform IaC, Azure Policy, governance frameworks, and 
 secure PaaS migrations.
 
-🎓 Certifications: CompTIA Security+ | AZ-104 (Azure Administrator)
-📈 Pursuing: AZ-305 (Azure Solutions Architect) | AZ-400 (DevOps Engineer Expert)
+🎓 Certifications: CompTIA Security+ | 📈 Pursuing: AZ-104 (Azure Administrator)
 
 🔧 Tech Stack:
 Azure | Terraform | PowerShell | Microsoft Entra ID | RBAC | Azure Policy |
