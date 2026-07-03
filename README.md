@@ -49,7 +49,7 @@ step-by-step READMEs, and Loom video walkthroughs — built to recruiter-ready s
 
 - [Azure AD Administration Lab](https://github.com/glenpagesr-dev/azure-ad-admin-lab)
 
-- [Wireshark Network Analysit Lab] (
+- [Wireshark Network Analysis Lab](https://github.com/glenpagesr-dev/Wireshark-Network-Analysis-Lab)
 
 <h2>🛠️ Core Skills </h2>
        
