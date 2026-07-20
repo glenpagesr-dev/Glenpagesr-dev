@@ -33,6 +33,16 @@ step-by-step READMEs, and Loom video walkthroughs — built to recruiter-ready s
 
   - [Setup and configuration of an Active Directory user provisioning lab](https://github.com/glenpagesr-dev/password-reset)
 
+<h2>👨‍💻 System Administrator Projects:</h2>
+
+- [Azure AD Administration Lab](https://github.com/glenpagesr-dev/azure-ad-admin-lab)
+
+- [ServiceNow ITSM Lab Lab]()
+
+
+
+
+
 <h2> Azure Cloud Labs:</h2> 
 
  - [Configuring an Azure Storage Account to host a static website](https://github.com/glenpagesr-dev/Building-and-Hosting-a-Static-Website-on-Azure)
@@ -46,8 +56,6 @@ step-by-step READMEs, and Loom video walkthroughs — built to recruiter-ready s
 - [Azure Cost Visibility Dashboard](https://github.com/glenpagesr-dev/Azure-Cost-Visibility-Dashboard)
 
 - [Azure Governance & Security Hardening](https://github.com/glenpagesr-dev/Azure-Governance-Security-Hardening)
-
-- [Azure AD Administration Lab](https://github.com/glenpagesr-dev/azure-ad-admin-lab)
 
 - [Wireshark Network Analysis Lab](https://github.com/glenpagesr-dev/Wireshark-Network-Analysis-Lab)
 
