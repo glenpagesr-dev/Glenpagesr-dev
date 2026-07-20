@@ -37,7 +37,7 @@ step-by-step READMEs, and Loom video walkthroughs — built to recruiter-ready s
 
 - [Azure AD Administration Lab](https://github.com/glenpagesr-dev/azure-ad-admin-lab)
 
-- [ServiceNow ITSM Lab Lab]()
+- [ServiceNow ITSM Lab Lab](https://github.com/glenpagesr-dev/Servicenow-ITSM)
 
 
 
