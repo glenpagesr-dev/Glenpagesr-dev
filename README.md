@@ -37,13 +37,9 @@ step-by-step READMEs, and Loom video walkthroughs — built to recruiter-ready s
 
 - [Azure AD Administration Lab](https://github.com/glenpagesr-dev/azure-ad-admin-lab)
 
-- [ServiceNow ITSM Lab Lab](https://github.com/glenpagesr-dev/Servicenow-ITSM)
+- [ServiceNow ITSM Lab](https://github.com/glenpagesr-dev/Servicenow-ITSM)
 
-
-
-
-
-<h2> Azure Cloud Projects:</h2> 
+<h2>👨‍💻 Azure Cloud Projects:</h2> 
 
  - [Configuring an Azure Storage Account to host a static website](https://github.com/glenpagesr-dev/Building-and-Hosting-a-Static-Website-on-Azure)
 
