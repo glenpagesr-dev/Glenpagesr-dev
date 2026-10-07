@@ -4,7 +4,7 @@ Azure Cloud Support Associate with hands-on experience deploying and administeri
 Azure infrastructure, automating workflows with PowerShell and Terraform IaC, 
 and managing enterprise identity through Microsoft Entra ID and RBAC.
 
-At Jefe-Consulting LLC, I architect and support Azure environments, engineer 
+At Jefe-Consulting LLC, I deploy and support Azure environments, engineer 
 PowerShell automation, and manage end-to-end incident lifecycles in ServiceNow.
 
 My lab portfolio mirrors real enterprise scenarios — covering IaaS deployments, 
@@ -14,7 +14,7 @@ secure PaaS migrations.
 🎓 Certifications: CompTIA Security+ | 📈 Pursuing: AZ-104 (Azure Administrator)
 
 🔧 Tech Stack:
-Azure | Terraform | PowerShell | Microsoft Entra ID | RBAC | Azure Policy |
+Azure | Terraform | Git | Docker | Kubernetes | PowerShell | Microsoft Entra ID | RBAC | Azure Policy |
 ServiceNow | Linux CLI | Log Analytics | Azure Monitor
 
 📂 Each lab below is production-documented with architecture diagrams, 
