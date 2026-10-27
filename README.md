@@ -57,6 +57,8 @@ step-by-step READMEs, and Loom video walkthroughs — built to recruiter-ready s
 
 - [Wireshark Network Analysis Lab](https://github.com/glenpagesr-dev/Wireshark-Network-Analysis-Lab)
 
+<h2>👨‍💻 Linux Projects:</h2> 
+
 <h2>🛠️ Core Skills </h2>
        
     • Servicenow
