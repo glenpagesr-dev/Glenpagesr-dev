@@ -20,26 +20,15 @@ ServiceNow | Linux CLI | Log Analytics | Azure Monitor
 📂 Each lab below is production-documented with architecture diagrams, 
 step-by-step READMEs, and Loom video walkthroughs — built to recruiter-ready standards.
         
-  
+  <h2>👨‍💻 Linux Projects:</h2>
     
+- [Linux Operations Project](https://github.com/glenpagesr-dev/Linux-Operations-Project)
 
-<h2>👨‍💻 Help Desk Projects:</h2>
 
-  - [Building a Windows Virtual Machine EC2 Instance on AWS](https://github.com/glenpagesr-dev/virtual-machine)
+ <h2>👨‍💻 DevOps Projects:</h2>
 
-  - [Configuration of an Incident ticket in Servicenow](https://github.com/glenpagesr-dev/servicenow) 
+- [DevOps AWS CI/CD Pipeline Capstone Project](https://github.com/glenpagesr-dev/BankingMicroservice)
 
-  - [Configuration of a Password Rest in Active Directory](https://github.com/glenpagesr-dev/password-reset)
-
-  - [Setup and configuration of an Active Directory user provisioning lab](https://github.com/glenpagesr-dev/password-reset)
-
-<h2>👨‍💻 System Administrator Projects:</h2>
-
-- [Azure AD Administration Lab](https://github.com/glenpagesr-dev/azure-ad-admin-lab)
-
-- [ServiceNow ITSM Lab](https://github.com/glenpagesr-dev/Servicenow-ITSM)
-
-- [Azure Update Manager Lab](https://github.com/glenpagesr-dev/Azure-Update-Manager-Lab)
 
 <h2>👨‍💻 Azure Cloud Projects:</h2> 
 
@@ -57,9 +46,25 @@ step-by-step READMEs, and Loom video walkthroughs — built to recruiter-ready s
 
 - [Wireshark Network Analysis Lab](https://github.com/glenpagesr-dev/Wireshark-Network-Analysis-Lab)
 
-<h2>👨‍💻 Linux Projects:</h2> 
+<h2>👨‍💻 System Administrator Projects:</h2>
 
-- [Linux Operations Project](https://github.com/glenpagesr-dev/Linux-Operations-Project)
+- [Azure AD Administration Lab](https://github.com/glenpagesr-dev/azure-ad-admin-lab)
+
+- [ServiceNow ITSM Lab](https://github.com/glenpagesr-dev/Servicenow-ITSM)
+
+- [Azure Update Manager Lab](https://github.com/glenpagesr-dev/Azure-Update-Manager-Lab)
+
+
+
+<h2>👨‍💻 Help Desk Projects:</h2>
+
+- [Building a Windows Virtual Machine EC2 Instance on AWS](https://github.com/glenpagesr-dev/virtual-machine)
+
+- [Configuration of an Incident ticket in Servicenow](https://github.com/glenpagesr-dev/servicenow)
+
+ - [Configuration of a Password Rest in Active Directory](https://github.com/glenpagesr-dev/password-reset)
+
+ - [Setup and configuration of an Active Directory user provisioning lab](https://github.com/glenpagesr-dev/password-reset)
 
 
 
